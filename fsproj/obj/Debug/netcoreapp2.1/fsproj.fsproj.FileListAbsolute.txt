@@ -1,0 +1,8 @@
+C:\Users\IEUser\Desktop\fsproj\fsproj\bin\Debug\netcoreapp2.1\fsproj.deps.json
+C:\Users\IEUser\Desktop\fsproj\fsproj\bin\Debug\netcoreapp2.1\fsproj.runtimeconfig.json
+C:\Users\IEUser\Desktop\fsproj\fsproj\bin\Debug\netcoreapp2.1\fsproj.runtimeconfig.dev.json
+C:\Users\IEUser\Desktop\fsproj\fsproj\bin\Debug\netcoreapp2.1\fsproj.dll
+C:\Users\IEUser\Desktop\fsproj\fsproj\obj\Debug\netcoreapp2.1\fsproj.fsprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\fsproj\fsproj\bin\Debug\netcoreapp2.1\fsproj.pdb
+C:\Users\IEUser\Desktop\fsproj\fsproj\obj\Debug\netcoreapp2.1\fsproj.dll
+C:\Users\IEUser\Desktop\fsproj\fsproj\obj\Debug\netcoreapp2.1\fsproj.pdb
